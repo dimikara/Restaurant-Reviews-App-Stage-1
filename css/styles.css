@@ -328,10 +328,10 @@ nav h1 a {
 #restaurant-name {
   color: #f18200;
   font-family: Arial,sans-serif;
-  font-size: 20pt;
+  font-size: 24px;
   font-weight: 200;
   letter-spacing: 0;
-  margin: 15px 0 30px;
+  margin: 15px 10px;
   text-transform: uppercase;
   line-height: 1.1;
 }
@@ -343,7 +343,8 @@ nav h1 a {
 
 
 #restaurant-address {
-  font-size: 12pt;
+  font-size: 18px;
+  font-weight: 700;
   margin: 10px 0px;
 }
 
@@ -362,7 +363,8 @@ nav h1 a {
 }
 
 
-#restaurant-container, #reviews-container {
+#restaurant-container, 
+#reviews-container {
   border-bottom: 1px solid #d9d9d9;
   border-top: 1px solid #fff;
   padding: 140px 40px 30px;
