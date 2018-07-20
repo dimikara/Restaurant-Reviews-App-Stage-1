@@ -6,7 +6,7 @@ In this project, I incrementally converted a static webpage to a mobile-ready we
 
 I was provided with the code for a restaurant reviews website. This code had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also didn’t include any standard accessibility features, and it didn't work offline at all. My job was to update the code to resolve these issues while still maintaining the included functionality.
 
----
+
 
 ## How you can run this project
 
@@ -18,7 +18,7 @@ To run the project, download/clone the repository in your computer and follow th
 
 * With your server running, visit the site: `http://localhost:8000`. You can now see the live site.
 
----
+
 
 ## Leaflet.js and Mapbox:
 
