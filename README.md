@@ -1,16 +1,14 @@
-#### Project "Restaurant Reviews"
+## Project "Restaurant Reviews" - Overview
 
-## Project Overview
+In this project, I incrementally converted a static webpage to a mobile-ready web application. I took a static design that lacked accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. I also added a service worker to begin the process of creating a seamless offline experience for the users.
 
-In this project (**Restaurant Reviews**), I incrementally converted a static webpage to a mobile-ready web application. I took a static design that lacked accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. I also added a service worker to begin the process of creating a seamless offline experience for the users.
-
-### Specification
+## Specification
 
 I was provided with the code for a restaurant reviews website. This code had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also didn’t include any standard accessibility features, and it didn't work offline at all. My job was to update the code to resolve these issues while still maintaining the included functionality.
 
 ---
 
-### How you can run this project
+## How you can run this project
 
 To run the project, download/clone the repository in your computer and follow the instructions below:
 
@@ -22,11 +20,11 @@ To run the project, download/clone the repository in your computer and follow th
 
 ---
 
-### Leaflet.js and Mapbox:
+## Leaflet.js and Mapbox:
 
 In this project [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/) was used. Mapbox is free to use, and does not require any payment information. 
 
-### Note about ES6
+## Note about ES6
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, I tried to maintain use of ES6 in the additional JavaScript I wrote. 
 
