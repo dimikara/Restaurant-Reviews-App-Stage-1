@@ -7,6 +7,7 @@
 * [How to run the project](#how-to-run-the-project)
 * [Credits & Tools Used](#credits-&-tools-used)
 * [Screenshot](#screenshot)
+* [License](#license)
 
 
 ## Overview
@@ -49,4 +50,10 @@ for mobile-friendly interactive maps, & [**Mapbox**](https://www.mapbox.com/), a
 ![Screenshot1](/img/Screenshot.PNG "Screenshot")
 
 
+## License
 
+[MIT](https://github.com/dimikara/Restaurant-Reviews-App-Stage-1/blob/master/LICENSE) License.
+
+Copyright (c) 2018 Dimitra Karamperi
+
+---
