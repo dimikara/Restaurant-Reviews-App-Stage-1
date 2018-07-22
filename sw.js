@@ -21,6 +21,10 @@ let urlsToCache = [
   './img/10.jpg',
 ];
 
+
+/**
+ * Installation of service worker
+ */
 self.addEventListener('install', function(event) {
 	event.waitUntil(
 		caches.open(staticCacheName).then(function(cache) {
@@ -30,6 +34,9 @@ self.addEventListener('install', function(event) {
 });
 
 
+/**
+ * Activation of service worker
+ */
 self.addEventListener('activate', function(event) {
     event.waitUntil(
         caches.keys().then(function(cacheNames) {
@@ -46,6 +53,9 @@ self.addEventListener('activate', function(event) {
 });
 
 
+/**
+ * Fetching for offline content viewing
+ */
 self.addEventListener('fetch', function(event) {
     event.respondWith(
         caches.match(event.request).then(function(response) {

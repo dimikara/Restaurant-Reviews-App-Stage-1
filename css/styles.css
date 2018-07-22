@@ -128,7 +128,7 @@ nav h1 a {
   background-color: #eee;
   font-size: 17px;
   margin: 0;
-  width: calc(50% - 80px);
+  max-width: 100%;
 }
 
 
@@ -403,7 +403,6 @@ label {
   list-style-type: none;
   margin: 0 0 30px;
   overflow: hidden;
-  padding: 0 20px 20px;
   position: relative;
   width: 85%;
   display: flex;
