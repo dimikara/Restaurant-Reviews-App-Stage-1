@@ -1,4 +1,4 @@
-# "Restaurant Reviews" 
+# Restaurant Reviews App 
 
 # Table of Contents
 
