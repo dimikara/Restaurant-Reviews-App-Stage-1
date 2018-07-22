@@ -1,4 +1,4 @@
-## Project "Restaurant Reviews" - Overview
+## "Restaurant Reviews" - Overview
 
 In this project, I incrementally converted a static webpage to a mobile-ready web application. I took a static design that lacked accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. I also added a service worker to begin the process of creating a seamless offline experience for the users.
 
@@ -8,7 +8,7 @@ In this project, I incrementally converted a static webpage to a mobile-ready we
 I was provided with the code for a restaurant reviews website. This code had a lot of issues. It was barely usable on a desktop browser, much less a mobile device. It also didn’t include any standard accessibility features, and it didn't work offline at all. My job was to update the code to resolve these issues while still maintaining the included functionality.
 
 
-## How you can run this project
+## How to run the project
 
 To run the project, download or clone the repository in your computer:
 
@@ -30,11 +30,17 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 ## Credits & Tools Used
 
-* Starter code by [**Udacity**](https://github.com/udacity/mws-restaurant-stage-1)
-* Maps: [**Leafletjs**](https://leafletjs.com/), an open-source JavaScript library
-for mobile-friendly interactive maps, & [**Mapbox**](https://www.mapbox.com/), an open source mapping platform for custom designed maps
-* Presentations by [**Mohammed Riaad**](https://www.youtube.com/watch?v=TxXwlOAXUko) and [**Doug Brown**](https://www.youtube.com/watch?v=92dtrNU1GQc)
+* Starter code by [**Udacity**](https://github.com/udacity/mws-restaurant-stage-1).
+* [**Leafletjs**](https://leafletjs.com/), an open-source JavaScript library
+for mobile-friendly interactive maps, & [**Mapbox**](https://www.mapbox.com/), an open source mapping platform for custom designed maps.
+* Presentations by [**Mohammed Riaad**](https://www.youtube.com/watch?v=TxXwlOAXUko) and [**Doug Brown**](https://www.youtube.com/watch?v=92dtrNU1GQc).
 * [**Lighhouse**](https://developers.google.com/web/tools/lighthouse/), an open-source ([GitHub repository](https://github.com/GoogleChrome/lighthouse)), automated tool for improving the quality of web pages. I used it as an index mainly for Accessibility issues.
-___
+* [**Normalize.css**](https://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
+
+
+## Screenshot
+
+![Screenshot1](/img/Screenshot.PNG "Screenshot")
+
 
 
