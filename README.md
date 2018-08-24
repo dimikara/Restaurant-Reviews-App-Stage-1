@@ -41,7 +41,7 @@ and follow the instructions below:
 * [**Leafletjs**](https://leafletjs.com/), an open-source JavaScript library
 for mobile-friendly interactive maps, & [**Mapbox**](https://www.mapbox.com/), an open source mapping platform for custom designed maps.
 * Presentations by [**Mohammed Riaad**](https://www.youtube.com/watch?v=TxXwlOAXUko) and [**Doug Brown**](https://www.youtube.com/watch?v=92dtrNU1GQc).
-* [**Lighhouse**](https://developers.google.com/web/tools/lighthouse/), an open-source ([GitHub repository](https://github.com/GoogleChrome/lighthouse)), automated tool for improving the quality of web pages. I used it as an index mainly for Accessibility issues.
+* [**Lighthouse**](https://developers.google.com/web/tools/lighthouse/), an open-source ([GitHub repository](https://github.com/GoogleChrome/lighthouse)), automated tool for improving the quality of web pages. I used it as an index mainly for Accessibility issues.
 * [**Normalize.css**](https://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
 * Favicon created via [Favicon & App Icon Generator](https://www.favicon-generator.org/).
 
